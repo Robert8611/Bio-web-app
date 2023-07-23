@@ -1,0 +1,29 @@
+
+/*my css code */
+body {
+  padding: 40px ;
+    background: #A0E8AF;
+    color: blue;
+    text-align: center
+} 
+.profile-img{
+width: 60%;
+border-radius:60%;
+}
+h1{
+font-size:large;} 
+p{
+  font-size: small ;
+}
+a{
+  text-decoration: none;
+  color: white ; }
+
+.btn{
+  display: block;
+ color: greenyellow;
+ padding: 20px;
+ background : blue;
+ margin: 16px;
+ box-shadow: 10px 10px lightpink ;
+}
